@@ -1,35 +1,9 @@
 # BI-Projects
-# Power BI Reports: Sales Activity, Product Analysis, Pipeline Accidents, and Call Center Performance
+# Power BI Reports: Product Sales Analysis, Pipeline Accidents, Call Center Performance, and Sales Activity
 
 This repository contains multiple Power BI reports for tracking and analyzing sales activities, product performance, pipeline accident statistics, and call center performance.
 
-## 1. Sales Activity KPIs (Sales Efforts)
-The "Sales Activity KPIs" dashboard tracks the following key metrics:
-
-### Sections:
-1. **Effectiveness**: Tracks the performance of Business Development Managers (BDMs) across different time ranges.
-   - Number of BDMs less than 6 months, less than 12 months, and greater than 12 months (Actual vs. Target).
-
-2. **New Sales Activity (Effort)**: Measures sales efforts through metrics such as:
-   - Reach Outs (Actual vs. Target)
-   - New Prospect Appointments (Actual vs. Target)
-   - Visits (Actual vs. Target)
-   - Proposals (Actual)
-
-### Features:
-- Visual comparisons between **Actual** and **Target** values, using color-coded cells (e.g., green, red, yellow).
-- Data split by **Week** for easy trend analysis.
-- Custom filters for BDMs, industry, lead source, and NPG to drill into specific datasets.
-
-### Visuals:
-- Color-coded tables for easy understanding of sales activities.
-- Interactive filters to drill through different weeks and metrics.
-
-View Image ()
-
----
-
-## 2. Product Sales Analysis
+## 1. Product Sales Analysis
 The "Product Sales Analysis" report provides detailed insights into order amounts, shipped amounts, and sales performance by week, country, product color, and more.
 
 ### Sections:
@@ -52,11 +26,14 @@ The "Product Sales Analysis" report provides detailed insights into order amount
 - **Line charts** for order and shipped amounts by month and year.
 - **Quarterly and YTD tables** for detailed financial analysis.
 
+<img width="1350" height="805" alt="image" src="https://github.com/user-attachments/assets/76483df2-8a2d-48c8-b744-be1f34aab314" />
+
+
 View Image (https://github.com/sp3jossy/BI-Projects/blob/main/Sales%20Analysis.png)
 
 ---
 
-## 3. YOY Significant Rate of Pipeline Accidents in the USA
+## 2. YOY Significant Rate of Pipeline Accidents in the USA
 This report analyzes the significant rate of pipeline accidents across the USA, focusing on causes, incident types, and year-over-year (YOY) variances.
 
 ### Sections:
@@ -85,11 +62,13 @@ This report analyzes the significant rate of pipeline accidents across the USA, 
 - **Dynamic filters** for various data dimensions.
 - **Table of top 10 operators** with major pipeline incidents.
 
+<img width="1383" height="790" alt="image" src="https://github.com/user-attachments/assets/1ddd3e5a-c6f6-4ab3-a62b-13ca4ea524bb" />
+
 View Image (https://github.com/sp3jossy/BI-Projects/blob/main/Pipeline.png)
 
 ---
 
-## 4. Quarterly Call Center Performance
+## 3. Quarterly Call Center Performance
 The "Quarterly Call Center Performance" report tracks key metrics related to call center efficiency, such as call answering rate, abandonment rate, and handle time.
 
 ### Sections:
@@ -115,7 +94,33 @@ The "Quarterly Call Center Performance" report tracks key metrics related to cal
 - **Line charts** for call answering rate trends.
 - **Interactive filters** for granularity in data analysis, such as by queue and time period.
 
+<img width="1347" height="782" alt="image" src="https://github.com/user-attachments/assets/59db7676-d480-4a7f-93b9-c492f5dbce3f" />
+
 View Image (https://github.com/sp3jossy/BI-Projects/blob/main/call%20center.png)
+
+## 4. Sales Activity KPIs (Sales Efforts)
+The "Sales Activity KPIs" dashboard tracks the following key metrics:
+
+### Sections:
+1. **Effectiveness**: Tracks the performance of Business Development Managers (BDMs) across different time ranges.
+   - Number of BDMs less than 6 months, less than 12 months, and greater than 12 months (Actual vs. Target).
+
+2. **New Sales Activity (Effort)**: Measures sales efforts through metrics such as:
+   - Reach Outs (Actual vs. Target)
+   - New Prospect Appointments (Actual vs. Target)
+   - Visits (Actual vs. Target)
+   - Proposals (Actual)
+
+### Features:
+- Visual comparisons between **Actual** and **Target** values, using color-coded cells (e.g., green, red, yellow).
+- Data split by **Week** for easy trend analysis.
+- Custom filters for BDMs, industry, lead source, and NPG to drill into specific datasets.
+
+### Visuals:
+- Color-coded tables for easy understanding of sales activities.
+- Interactive filters to drill through different weeks and metrics.
+
+<img width="1722" height="980" alt="Sales Activities Screenshot" src="https://github.com/user-attachments/assets/a7ff5b4b-ee67-4d05-825e-ffecc4e85a81" />
 
 ---
 
