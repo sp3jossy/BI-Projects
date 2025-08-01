@@ -52,7 +52,7 @@ The "Product Sales Analysis" report provides detailed insights into order amount
 - **Line charts** for order and shipped amounts by month and year.
 - **Quarterly and YTD tables** for detailed financial analysis.
 
-View Image ()
+View Image (https://github.com/sp3jossy/BI-Projects/blob/main/Sales%20Analysis.png)
 
 ---
 
@@ -85,7 +85,7 @@ This report analyzes the significant rate of pipeline accidents across the USA, 
 - **Dynamic filters** for various data dimensions.
 - **Table of top 10 operators** with major pipeline incidents.
 
-View Image ()
+View Image (https://github.com/sp3jossy/BI-Projects/blob/main/Pipeline.png)
 
 ---
 
@@ -115,7 +115,7 @@ The "Quarterly Call Center Performance" report tracks key metrics related to cal
 - **Line charts** for call answering rate trends.
 - **Interactive filters** for granularity in data analysis, such as by queue and time period.
 
-View Image ()
+View Image (https://github.com/sp3jossy/BI-Projects/blob/main/call%20center.png)
 
 ---
 
