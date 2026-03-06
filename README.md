@@ -26,7 +26,7 @@ The "Product Sales Analysis" report provides detailed insights into order amount
 - **Line charts** for order and shipped amounts by month and year.
 - **Quarterly and YTD tables** for detailed financial analysis.
 
-<img width="1350" height="805" alt="image" src="https://github.com/user-attachments/assets/76483df2-8a2d-48c8-b744-be1f34aab314" />
+<img width="1350" height="805" alt="image" src="https://github.com/sp3jossy/BI-Projects/blob/main/Product_Sales_Analysis.jpg" />
 
 
 View Image (https://github.com/sp3jossy/BI-Projects/blob/main/Product_Sales_Analysis.jpg)
@@ -62,13 +62,13 @@ This report analyzes the significant rate of pipeline accidents across the USA, 
 - **Dynamic filters** for various data dimensions.
 - **Table of top 10 operators** with major pipeline incidents.
 
-<img width="1383" height="790" alt="image" src="https://github.com/sp3jossy/BI-Projects/blob/main/Product_Sales_Analysis.jpg" />
+<img width="1383" height="790" alt="image" src="https://github.com/sp3jossy/BI-Projects/blob/main/Pipeline.png" />
 
 View Image (https://github.com/sp3jossy/BI-Projects/blob/main/Pipeline.png)
 
 ---
 
-## 3. Quarterly Call Center Performance
+## 3. Call Center Performance
 The "Quarterly Call Center Performance" report tracks key metrics related to call center efficiency, such as call answering rate, abandonment rate, and handle time.
 
 ### Sections:
@@ -94,7 +94,7 @@ The "Quarterly Call Center Performance" report tracks key metrics related to cal
 - **Line charts** for call answering rate trends.
 - **Interactive filters** for granularity in data analysis, such as by queue and time period.
 
-<img width="1347" height="782" alt="image" src="https://github.com/user-attachments/assets/59db7676-d480-4a7f-93b9-c492f5dbce3f" />
+<img width="1347" height="782" alt="image" src="https://github.com/sp3jossy/BI-Projects/blob/main/Call%20Center.jpg" />
 
 View Image (https://github.com/sp3jossy/BI-Projects/blob/main/Call%20Center.jpg)
 
