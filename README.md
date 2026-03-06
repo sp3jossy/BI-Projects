@@ -62,7 +62,7 @@ This report analyzes the significant rate of pipeline accidents across the USA, 
 - **Dynamic filters** for various data dimensions.
 - **Table of top 10 operators** with major pipeline incidents.
 
-<img width="1383" height="790" alt="image" src="https://github.com/user-attachments/assets/1ddd3e5a-c6f6-4ab3-a62b-13ca4ea524bb" />
+<img width="1383" height="790" alt="image" src="https://github.com/sp3jossy/BI-Projects/blob/main/Product_Sales_Analysis.jpg" />
 
 View Image (https://github.com/sp3jossy/BI-Projects/blob/main/Pipeline.png)
 
