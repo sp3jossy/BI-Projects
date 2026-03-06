@@ -29,11 +29,11 @@ The "Product Sales Analysis" report provides detailed insights into order amount
 <img width="1350" height="805" alt="image" src="https://github.com/user-attachments/assets/76483df2-8a2d-48c8-b744-be1f34aab314" />
 
 
-View Image (https://github.com/sp3jossy/BI-Projects/blob/main/Sales%20Analysis.png)
+View Image (https://github.com/sp3jossy/BI-Projects/blob/main/Product_Sales_Analysis.jpg)
 
 ---
 
-## 2. YOY Significant Rate of Pipeline Accidents in the USA
+## 2. Pipeline Accidents in the USA
 This report analyzes the significant rate of pipeline accidents across the USA, focusing on causes, incident types, and year-over-year (YOY) variances.
 
 ### Sections:
@@ -96,7 +96,7 @@ The "Quarterly Call Center Performance" report tracks key metrics related to cal
 
 <img width="1347" height="782" alt="image" src="https://github.com/user-attachments/assets/59db7676-d480-4a7f-93b9-c492f5dbce3f" />
 
-View Image (https://github.com/sp3jossy/BI-Projects/blob/main/call%20center.png)
+View Image (https://github.com/sp3jossy/BI-Projects/blob/main/Call%20Center.jpg)
 
 ## 4. Sales Activity KPIs (Sales Efforts)
 The "Sales Activity KPIs" dashboard tracks the following key metrics:
