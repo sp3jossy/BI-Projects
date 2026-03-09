@@ -35,8 +35,10 @@ The "Product Sales Analysis" report provides detailed insights into order amount
 <img width="1347" height="790" alt="image" src="Product_Sales_Analysis.jpg" />
 
 
-View Image (Product_Sales_Analysis.jpg)
-Play Video (https://github.com/sp3jossy/BI-Projects/blob/main/ProductSalesAnalysis.mp4)
+### View Image 
+(Product_Sales_Analysis.jpg)
+### Demo Video 
+(ProductSalesAnalysis.mp4)
 
 ---
 
@@ -71,8 +73,10 @@ This report analyzes the significant rate of pipeline accidents across the USA, 
 
 <img width="1383" height="790" alt="image" src="https://github.com/sp3jossy/BI-Projects/blob/main/Pipeline.png" />
 
-View Image (https://github.com/sp3jossy/BI-Projects/blob/main/Pipeline.png)
-Play Video (https://github.com/sp3jossy/BI-Projects/blob/main/Pipeline-Accidents.mp4)
+### View Image 
+(Pipeline.png)
+### Demp Video 
+(Pipeline-Accidents.mp4)
 
 ---
 
@@ -104,8 +108,10 @@ The "Quarterly Call Center Performance" report tracks key metrics related to cal
 
 <img width="1347" height="782" alt="image" src="https://github.com/sp3jossy/BI-Projects/blob/main/Call%20Center.jpg" />
 
-View Image (https://github.com/sp3jossy/BI-Projects/blob/main/Call%20Center.jpg)
-Play Video (https://github.com/sp3jossy/BI-Projects/blob/main/Call-Center-Record.mp4)
+### View Image 
+(Call-Center.jpg)
+### Demo Video
+(Call-Center-Record.mp4)
 
 ----
 
@@ -144,7 +150,8 @@ The Customer Retention Simulation dashboard provides a comprehensive analysis of
 
 <img width="1347" height="782" alt="image" src="https://github.com/sp3jossy/BI-Projects/blob/main/Customer_Retention.jpg" />
 
-View Image (https://github.com/sp3jossy/BI-Projects/blob/main/Customer_Retention.jpg)
+### View Image 
+(https://github.com/sp3jossy/BI-Projects/blob/main/Customer_Retention.jpg)
 ### Demo Video
 https://github.com/sp3jossy/BI-Projects/raw/main/Customer_Retention.mp4
 
