@@ -26,7 +26,7 @@ The "Product Sales Analysis" report provides detailed insights into order amount
 - **Line charts** for order and shipped amounts by month and year.
 - **Quarterly and YTD tables** for detailed financial analysis.
 
-<img width="1350" height="805" alt="image" src="https://github.com/sp3jossy/BI-Projects/blob/main/Product_Sales_Analysis.jpg" />
+<img width="1350" height="805" alt="image" src="github.com/sp3jossy/BI-Projects/blob/main/ProductSalesAnalysis.mp4" />
 
 
 View Image (https://github.com/sp3jossy/BI-Projects/blob/main/Product_Sales_Analysis.jpg)
