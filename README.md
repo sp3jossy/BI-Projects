@@ -136,7 +136,7 @@ The Customer Retention Simulation dashboard provides a comprehensive analysis of
 - **Grouped Bar Charts**: Comparison of revenue vs. profit across subcategories and occupations.
 - **Combination Charts**: Line and bar overlays to highlight Year-Over-Year (YOY) growth against volume.
 
-<img width="1347" height="782" alt="image" src="https://github.com/sp3jossy/BI-Projects/blob/main/Call%20Center.jpg" />
+<img width="1347" height="782" alt="image" src="https://github.com/sp3jossy/BI-Projects/blob/main/Customer_Retention.mp4" />
 
 View Image (https://github.com/sp3jossy/BI-Projects/blob/main/Customer_Retention.jpg)
 Play Video (https://github.com/sp3jossy/BI-Projects/blob/main/Customer_Retention.mp4)
