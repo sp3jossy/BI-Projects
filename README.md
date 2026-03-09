@@ -26,7 +26,7 @@ The "Product Sales Analysis" report provides detailed insights into order amount
 - **Line charts** for order and shipped amounts by month and year.
 - **Quarterly and YTD tables** for detailed financial analysis.
 
-<img width="1350" height="805" alt="image" src="github.com/sp3jossy/BI-Projects/blob/main/ProductSalesAnalysis.mp4" />
+<img width="1350" height="805" alt="image" src="github.com/sp3jossy/BI-Projects/blob/main/Product_Sales_Analysis.jpg" />
 
 
 View Image (https://github.com/sp3jossy/BI-Projects/blob/main/Product_Sales_Analysis.jpg)
@@ -136,7 +136,7 @@ The Customer Retention Simulation dashboard provides a comprehensive analysis of
 - **Grouped Bar Charts**: Comparison of revenue vs. profit across subcategories and occupations.
 - **Combination Charts**: Line and bar overlays to highlight Year-Over-Year (YOY) growth against volume.
 
-<img width="1347" height="782" alt="image" src="https://github.com/sp3jossy/BI-Projects/blob/main/Customer_Retention.mp4" />
+<img width="1347" height="782" alt="image" src="https://github.com/sp3jossy/BI-Projects/blob/main/Customer_Retention.jpg" />
 
 View Image (https://github.com/sp3jossy/BI-Projects/blob/main/Customer_Retention.jpg)
 Play Video (https://github.com/sp3jossy/BI-Projects/blob/main/Customer_Retention.mp4)
