@@ -1,5 +1,5 @@
 # BI-Projects
-# Power BI Reports: Product Sales Analysis, Pipeline Accidents, Call Center Performance, and Sales Activity
+# Power BI Reports: Product Sales Analysis, Pipeline Accidents, Call Center Performance, Customer Retention, and Sales Activity
 
 This repository contains multiple Power BI reports for tracking and analyzing sales activities, product performance, pipeline accident statistics, and call center performance.
 
@@ -30,6 +30,7 @@ The "Product Sales Analysis" report provides detailed insights into order amount
 
 
 View Image (https://github.com/sp3jossy/BI-Projects/blob/main/Product_Sales_Analysis.jpg)
+Play Video (https://github.com/sp3jossy/BI-Projects/blob/main/ProductSalesAnalysis.mp4)
 
 ---
 
@@ -65,6 +66,7 @@ This report analyzes the significant rate of pipeline accidents across the USA, 
 <img width="1383" height="790" alt="image" src="https://github.com/sp3jossy/BI-Projects/blob/main/Pipeline.png" />
 
 View Image (https://github.com/sp3jossy/BI-Projects/blob/main/Pipeline.png)
+Play Video (https://github.com/sp3jossy/BI-Projects/blob/main/Pipeline-Accidents.mp4)
 
 ---
 
@@ -97,8 +99,51 @@ The "Quarterly Call Center Performance" report tracks key metrics related to cal
 <img width="1347" height="782" alt="image" src="https://github.com/sp3jossy/BI-Projects/blob/main/Call%20Center.jpg" />
 
 View Image (https://github.com/sp3jossy/BI-Projects/blob/main/Call%20Center.jpg)
+Play Video (https://github.com/sp3jossy/BI-Projects/blob/main/Call-Center-Record.mp4)
 
-## 4. Sales Activity KPIs (Sales Efforts)
+----
+
+## 4. Customer Retention
+The Customer Retention Simulation dashboard provides a comprehensive analysis of sales performance, profitability, and customer loyalty trends. It is designed to track how effectively the business retains its customer base over time across different regions and product categories.
+
+### Sections:
+1. **Key Performance Indicators (KPIs)**: Displays high-level summaries of business health, including:
+   - **Total Sales**: Aggregate revenue generated across the selected periods (currently $9.77M).
+   - **Total Profit**: Total bottom-line earnings (currently $4.05M).
+   - **Yearly Customer Count**: The total number of unique customers (currently 2,659).
+   - **Trend Sparklines**: Visual indicators of performance fluctuations over time for each KPI.
+
+2. **Returning Customers Analysis: A detailed cohort table that tracks customer behavior based on their first purchase month. It measures:
+   - **Active vs. First-Time Customers**: Breakdown of the customer volume.
+   - **Retention Rates**: The percentage of customers returning within 90 days and the following 3 months.
+
+3. **Product & Category Performance: Visualizes sales and profit distribution across different segments:
+   - **Subcategory Analysis**: A horizontal bar chart comparing "Total Sales" and "Total Profit" for items like Road Bikes, Mountain Bikes, and Accessories.
+   - **Global Reach**: A list of "Sales by Countries" showcasing top-performing markets like the United States and Australia.
+
+4. **Demographic & Growth Insights**:
+   - **English Occupation**: A combo chart to identify which professional segments are driving growth.
+
+### Features:
+- **Time-Based Slicers**: Data can be filtered by specific years (2001–2004).
+- **Categorical Filters**: Users can drill down into specific product families (Accessories, Bikes, Clothing, Components).
+- **Geographic Segmentation**: Global data can be toggled by Continent (Europe, North America, Pacific).
+- **Retention Tracking**: Enables "Cohort Analysis" to identify seasonal trends in customer loyalty.
+
+### Visuals:
+- **KPI Cards**: Summary tiles with integrated sparklines for immediate trend recognition.
+- **Cohort Table**: A data grid for granular tracking of customer return percentages.
+- **Grouped Bar Charts**: Comparison of revenue vs. profit across subcategories and occupations.
+- **Combination Charts**: Line and bar overlays to highlight Year-Over-Year (YOY) growth against volume.
+
+<img width="1347" height="782" alt="image" src="https://github.com/sp3jossy/BI-Projects/blob/main/Call%20Center.jpg" />
+
+View Image (https://github.com/sp3jossy/BI-Projects/blob/main/Customer_Retention.jpg)
+Play Video (https://github.com/sp3jossy/BI-Projects/blob/main/Customer_Retention.mp4)
+
+------
+
+## 5. Sales Activity KPIs (Sales Efforts)
 The "Sales Activity KPIs" dashboard tracks the following key metrics:
 
 ### Sections:
