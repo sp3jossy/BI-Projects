@@ -7,29 +7,35 @@ This repository contains multiple Power BI reports for tracking and analyzing sa
 The "Product Sales Analysis" report provides detailed insights into order amounts, shipped amounts, and sales performance by week, country, product color, and more.
 
 ### Sections:
-1. **Order Amount and Shipped Amount by Weekending**: A time series graph showing order amounts and shipped amounts on a weekly basis, with filter options to adjust by weekending, territory region, and product color.
+1. **Executive Summary (KPIs)**: High-level metrics showing the overall health of the sales pipeline:
+   - **Order Amount**: Total value of orders placed ($683.25K).
+   - **Shipping Amount**: Total value of orders successfully shipped ($678.48K).
 
-2. **Sales Analysis by Country**: Displays average weekly sales per country, represented as a pie chart for easy visualization.
-   - Countries tracked include the United States, Australia, United Kingdom, France, Canada, and Germany.
+2. **Order vs. Shipping Trends**: A large, interactive Area Chart that visualizes the relationship between total orders and actual shipments over time.
 
-3. **Order and Shipped Amount by Month and Year**: A line graph illustrating the trends in order and shipped amounts over time.
+3. **Fulfillment Volume Analysis**: 
+   - **Shipping Amount by Month**: A bar chart focusing specifically on monthly shipping volume to identify peak delivery periods.
+   - **Order Amount by Month**: A comparative bar chart to visualize the monthly influx of new sales.
 
-4. **Quarterly and Year-to-Date Sales**: Provides quarterly sales data and year-to-date figures, with an easy-to-read table for comparison.
+4. **Detailed Performance Matrix**: A comprehensive table providing a "ledger" view of performance, including:
+   - **Year To Date (YTD)** and **Quarter To Date (QTD)** sales totals.
+   - **Exact monthly** breakdowns for precise financial auditing.
 
 ### Features:
-- A dynamic dashboard with interactive filters for various dimensions like weekending, territory region, and product color.
-- Visual insights into sales performance trends with graphical representation, making it easier to spot trends in product demand and shipment efficiency.
+- **Field Parameters**: An advanced navigation menu that allows users to dynamically swap the chart axes between **Month & Yr, Weekend, Product Color, Territory Group, Territory Country**, and **Territory Region**.
+- **Year Slicer**: Quickly toggle between historical data (2013) and more recent performance (2014).
+- **Dynamic Fulfillment Tracking**: Real-time calculation of the gap between orders and deliveries.
 
 ### Visuals:
-- **Bar charts** for weekly order and shipped amounts.
-- **Pie chart** for country-specific average weekly sales.
-- **Line charts** for order and shipped amounts by month and year.
-- **Quarterly and YTD tables** for detailed financial analysis.
+- **KPI Cards**: Bold summary tiles for immediate data pulse checks.
+- **Stacked Area Chart**: Used for comparing two continuous data streams (Orders vs. Shipping).
+- **Clustered Bar Charts**: For discrete monthly volume comparisons.
+- **Power BI Matrix**: An interactive table for drilled-down financial reporting.
 
-<img width="1347" height="790" alt="image" src="github.com/sp3jossy/BI-Projects/blob/main/Product_Sales_Analysis.jpg" />
+<img width="1347" height="790" alt="image" src="Product_Sales_Analysis.jpg" />
 
 
-View Image (https://github.com/sp3jossy/BI-Projects/blob/main/Product_Sales_Analysis.jpg)
+View Image (Product_Sales_Analysis.jpg)
 Play Video (https://github.com/sp3jossy/BI-Projects/blob/main/ProductSalesAnalysis.mp4)
 
 ---
