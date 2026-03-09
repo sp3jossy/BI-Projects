@@ -106,7 +106,7 @@ The "Quarterly Call Center Performance" report tracks key metrics related to cal
 - **Line charts** for call answering rate trends.
 - **Interactive filters** for granularity in data analysis, such as by queue and time period.
 
-<img width="1347" height="782" alt="image" src="https://github.com/sp3jossy/BI-Projects/blob/main/Call%20Center.jpg" />
+<img width="1347" height="782" alt="image" src="https://github.com/sp3jossy/BI-Projects/blob/main/Call-Center.jpg" />
 
 ### View Image 
 (https://github.com/sp3jossy/BI-Projects/blob/main/Call-Center.jpg)
